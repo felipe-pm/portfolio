@@ -43,7 +43,7 @@ const HeroSection = () => {
                     </button>
                 </form>
                 
-                <form action="https://drive.google.com/file/d/1IuPcarNh5wCJ8vTj8YJ71e01e6bBlDXH/view">
+                <form action="https://drive.google.com/drive/folders/1qf8DRG_rd0p0QuQTxxuGVZaAj2wKXAsi?usp=sharing">
                     <button className='px-1 py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-primary-600 via-primary-400 to-secondary-400  hover:bg-slate-800 text-white'>
                         <span className='block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2'>Descargar CV</span> 
                     </button>
