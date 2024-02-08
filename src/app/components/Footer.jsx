@@ -11,7 +11,7 @@ const Footer = () => {
           width={150}
           height={150}
         />
-        <p className='text-slate-600 mt-4'>© 2023 Todos los derechos reservados.</p>
+        <p className='text-slate-600 mt-4'>© 2024 Todos los derechos reservados.</p>
       </div>
     </footer>
   )
